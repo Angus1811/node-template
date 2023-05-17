@@ -1,4 +1,4 @@
-# javascript-template
+# node-template
 
 just my deafualt setup for type script devolopment (on linux)
 
