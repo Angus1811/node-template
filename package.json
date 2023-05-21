@@ -5,7 +5,7 @@
   "description": "",
   "main": "src/js/main.js",
   "scripts": {
-    "start": "nodemon --watch src -e js --exec 'node ./src/main.js'"
+    "start": "nodemon --watch src -e js --exec 'node ./src/main.js' && echo \"complied $(date +\"%H:%M:%S\")\""
   },
   "keywords": [],
   "author": "",
